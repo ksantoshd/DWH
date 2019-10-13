@@ -1,6 +1,5 @@
 
-I have extracted all the data from the given url to CSV format and push the data into the following Landing zone area using.
- 
+All the data from the given url to CSV format and push the data into the following Landing zone table  In SQL Servver Database 
 1.
 URL :https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/aberporthdata.txt
  
